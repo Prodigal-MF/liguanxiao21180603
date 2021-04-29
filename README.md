@@ -1,5 +1,5 @@
 # liguanxiao21180603
-1.指向另一个md文件 [test](test.md)
+1.指向另一个文件 [test](test.md)
 ## 2.这是二级标题
 #### 3.这是四级标题
 4.外部网站链接 [百度](https://www.baidu.com/)</br>
